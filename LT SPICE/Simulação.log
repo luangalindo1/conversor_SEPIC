@@ -1,0 +1,23 @@
+Circuit: * G:\Meu Drive\_GÁS INFINITO\ENGENHARIA ELÉTRICA\Eletrônica de Potência\lab\PROJETO\LT SPICE\Simulação.asc
+
+Limiting rise time of source v2 to 1.23333e-006
+Limiting fall time of source v2 to 1.23333e-006
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Aug 18 22:01:57 2022
+Total elapsed time: 4.402 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2341269
+traniter = 2341264
+tranpoints = 656334
+accept = 489778
+rejected = 166556
+matrix size = 12
+fillins = 1
+solver = Normal
+Matrix Compiler1: 544 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 866 bytes object code size  0.1/0.1/[0.1]
+
